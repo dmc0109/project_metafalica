@@ -1,0 +1,186 @@
+﻿{
+	"histograma": {
+		"canvas": {
+			"size": [
+				1024,
+				640
+			],
+			"xscale": [
+				0,
+				2.0
+			],
+			"yscale": [
+				0,
+				1.0
+			],
+			"bgcolor": [
+				0,
+				0,
+				0
+			],
+			"color": [
+				255,
+				255,
+				255
+			]
+		},
+		"formats": {
+			"margins": [
+				0.15,
+				0.25,
+				0.1,
+				0.1
+			],
+			"isbarfilled": true,
+			"barfillcolor": [
+				0,
+				0,
+				255
+			],
+			"hasbarframe": true,
+			"barframecolor": [
+				255,
+				0,
+				0
+			],
+			"hasborder": true,
+			"bordercolor": [
+				0,
+				255,
+				0
+			],
+			"rulercolor": [
+				200,
+				200,
+				0
+			],
+			"rulermarkcolor": [
+				200,
+				200,
+				0
+			],
+			"hasrightruler": true,
+			"keycolor": [
+				200,
+				200,
+				0
+			],
+			"hasheader": true,
+			"headercolor": [
+				100,
+				100,
+				100
+			],
+			"hasfooter": true,
+			"footercolor": [
+				0,
+				200,
+				200
+			],
+			"headerfont": {
+				"fontfamily": "黑体",
+				"fontsize": 35
+			},
+			"footerfont": {
+				"fontfamily": "hymmnos",
+				"fontsize": 30
+			},
+			"rulerfont": {
+				"fontfamily": "sans",
+				"fontsize": 15
+			},
+			"rightrulerfont": {
+				"fontfamily": "impact",
+				"fontsize": 15
+			},
+			"keyfont": {
+				"fontfamily": "方正舒体",
+				"fontsize": 16
+			},
+			"rightrulermarkdistence": 0.1,
+			"rightrulercolor": [
+				200,
+				200,
+				0
+			],
+			"rightrulermarkcolor": [
+				200,
+				200,
+				0
+			],
+			"keyangle":45
+		},
+		"data": {
+			"header": "第6次人口普查报告",
+			"footer": "die 6exec walasye research taiko",
+			"minvalue": 0.0,
+			"keys": [
+				"北京",
+				"天津",
+				"河北",
+				"山西",
+				"内蒙古",
+				"辽宁",
+				"吉林",
+				"黑龙江",
+				"上海",
+				"江苏",
+				"浙江",
+				"安徽",
+				"福建",
+				"江西",
+				"山东",
+				"河南",
+				"湖北",
+				"湖南",
+				"广东",
+				"广西",
+				"海南",
+				"重庆",
+				"四川",
+				"贵州",
+				"云南",
+				"西藏",
+				"陕西",
+				"甘肃",
+				"青海",
+				"宁夏",
+				"新疆"
+			],
+			"values": [
+				15563215,
+				8858126,
+				14388021,
+				9414053,
+				8011564,
+				22021184,
+				10196745,
+				14122516,
+				17640842,
+				30166466,
+				20386294,
+				12182587,
+				12548384,
+				7504291,
+				28364984,
+				18331493,
+				17928160,
+				12738442,
+				52388382,
+				8352777,
+				2324288,
+				8681611,
+				1591566,
+				5537562,
+				6324830,
+				272322,
+				8837175,
+				5258935,
+				1368033,
+				2059295,
+				6071803
+			]
+		}
+	}
+}
+
